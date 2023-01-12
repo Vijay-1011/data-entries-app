@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/data-entries-app/static/css/main.31d6cfe0.css",
+    "main.js": "/data-entries-app/static/js/main.1eb768d9.js",
+    "index.html": "/data-entries-app/index.html",
+    "main.1eb768d9.js.map": "/data-entries-app/static/js/main.1eb768d9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.1eb768d9.js"
+  ]
+}
