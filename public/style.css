@@ -1,0 +1,58 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+    background-color: bisque;
+}
+input{
+    height: 50px;
+    width: 500px;
+    font-weight: 700;
+    font-size: medium;
+}
+button{
+    height: 40px;
+    width: 100px;
+    background-color: green;
+    font-weight: 700;
+    font-size: medium;
+}
+th,td{
+    border: 1px solid;
+}
+
+table{
+    border-collapse: collapse;
+    width: 850px;
+}
+td{
+    text-align: center;
+    
+}
+th{
+    height: 30px;
+    font-size: medium;
+    background-color: #449c7c;
+  color: white;
+}
+.edit{
+    background-color: olive;
+}
+.delete{
+    background-color: red;
+}
+.delete,.edit{
+    height: 40px;
+    width: 70px;
+
+}
+.bu{
+    border: none;
+}
+span{
+    color: red;
+    font-size: medium;
+    font-weight: 500;
+
+}
